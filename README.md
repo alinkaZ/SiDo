@@ -44,7 +44,7 @@ Si Do has three main features
 
 We believe, that our solution can empower Zarina and her community. And best of all, it uses existing technologies in a new way to make development simple and implementation effective.
 
-# Why Pakistan
+# Why Pakistan?
 We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
 
 We believe that Si Do can help both government and non-government organisations that aim to promote, lifelong learning,     gender equality,       and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
