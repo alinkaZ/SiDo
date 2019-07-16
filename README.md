@@ -19,7 +19,7 @@ Zarina is a 39 old woman. She is from Pakistan. She has basic education, no prof
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
 # Solution
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus...
+We want to create an application 
     
 ### How
 “Si do” means “Sew it” in urdu. And with the Si Do app, Zarina can develop her digital skills, discover new patterns, learn how to sell her clothing designs, and be a source of inspiration and be inspired by other women, who share her interest, around the globe.
@@ -37,7 +37,7 @@ Si Do is a mobile application with a simple interface that is easy to use for pe
 
 With Si Do everyone has a personal profile that can be ranked, based on feedback from their clients and peers. Each profile will have a portfolio with points for the courses that the person completed. This data will help connect women in collaboration, and motivate them in their future work as dressmakers and seamstresses. 
 
-Si Do has three main features
+**Si Do has three main features**
 - Learning materials divided into three levels, for beginners, intermediate and advanced;
 - A social platform for communication. Where users can ask questions and discuss different topics; 
 - And finally a marketplace, for trading and exchanging clothing designs, patterns and selling finished products. 
@@ -47,6 +47,6 @@ We believe, that our solution can empower Zarina and her community. And best of 
 # Why Pakistan?
 We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
 
-We believe that Si Do can help both government and non-government organisations that aim to promote, lifelong learning,     gender equality,       and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
+We believe that Si Do can help both government and non-government organisations that aim to promote, lifelong learning, gender equality and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
 
 For Zarina, Si Do provides the means for learning more about her passion, for becoming an entrepreneur, and for connecting with the next generation to learn digital skills.
