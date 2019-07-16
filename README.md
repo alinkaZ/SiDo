@@ -28,6 +28,8 @@ We want to create an application
 
 With Si Do, Zarina can communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help women support one another, solve common problems, and work together, to create new small businesses, in homes around the world.
 
+![Sewing](https://github.com/alinkaZ/SiDo/blob/master/Sewing.jpg)
+
 “Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. 
 
 ### What
