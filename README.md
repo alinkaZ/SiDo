@@ -7,7 +7,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 
 - [Problem](#Problem)
 
-- [solution](#Solution)
+- [Solution](#Solution)
     - [How](#How)
     - [What](#What)
     
