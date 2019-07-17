@@ -61,7 +61,7 @@ Apps that already exist aren’t fit for purpose. For example:
 
 - Learning platforms like courses are likely to not provide a shopping platform.
 
-So why create a new platform? It’s the mashup of the three functions of the SiDo app that makes it valuable and that also gives you the opportunity to make it responsive to the user’s needs. If we start using applications that already exist, it will be complicated for us as we want to add all three features.
+So why create a new platform? It’s the mashup of the three functions of the SiDo app that makes it valuable and that also gives you the opportunity to make it responsive to the user’s needs. 
 
 # Why Pakistan?
 We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
