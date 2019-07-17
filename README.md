@@ -3,7 +3,7 @@ Our educational system have failed to achive full inclusion, promote diversity a
 
 We belive that lifelong learning can help promote gender equality, ensure equal access to employment, and ensure that everyone is included in the information socitey. 
 
-# Table of contents
+# Intro
 
 - [Problem](#Problem)
 
@@ -21,7 +21,7 @@ Zarina is a 39 old woman. She is from Pakistan. She has basic education, no prof
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
 # Solution
-We want to create an application 
+We want to create an application that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
     
 ### How
 “Si do” means “Sew it” in urdu. And with the Si Do app, Zarina can develop her digital skills, discover new patterns, learn how to sell her clothing designs, and be a source of inspiration and be inspired by other women, who share her interest, around the globe.
@@ -42,9 +42,13 @@ Si Do is a mobile application with a simple interface that is easy to use for pe
 With Si Do everyone has a personal profile that can be ranked, based on feedback from their clients and peers. Each profile will have a portfolio with points for the courses that the person completed. This data will help connect women in collaboration, and motivate them in their future work as dressmakers and seamstresses. 
 
 **Si Do has three main features**
+```
 - Learning materials divided into three levels, for beginners, intermediate and advanced;
+
 - A social platform for communication. Where users can ask questions and discuss different topics; 
+
 - And finally a marketplace, for trading and exchanging clothing designs, patterns and selling finished products. 
+```
 
 We believe, that our solution can empower Zarina and her community. And best of all, it uses existing technologies in a new way to make development simple and implementation effective.
 
