@@ -11,6 +11,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
     - [How](#How)
     - [What](#What)
     
+- [Why not use apps that already exist??](#Why-not-use-apps-that-already-exist)
 - [Why Pakistan?](#Why-Pakistan)
     
 # Problem 
@@ -49,6 +50,15 @@ With Si Do everyone has a personal profile that can be ranked, based on feedback
 - And finally a marketplace, for trading and exchanging clothing designs, patterns and selling finished products. 
 
 We believe, that our solution can empower Zarina and her community. And best of all, it uses existing technologies in a new way to make development simple and implementation effective.
+
+# Why not use apps that already exist?
+
+Apps that already exist aren’t fit for purpose. For example:
+
+Facebook: a social networking app. It’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. Facebook allows to contact with strangers. This is against Pakistani culture. 
+Etsy: is a shopping platform but doesn’t have a place where people can network and exchange knowledge.
+<!--[endif]-->Learning platforms like courses are likely to not provide a shopping platform.
+So why create a new platform? It’s the mashup of the three functions of the SiDo app that makes it valuable and that also gives you the opportunity to make it responsive to the user’s needs. If we start using applications that already exist, it will be complicated for us as we want to add all three features.
 
 # Why Pakistan?
 We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
