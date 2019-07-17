@@ -55,9 +55,12 @@ We believe, that our solution can empower Zarina and her community. And best of 
 
 Apps that already exist aren’t fit for purpose. For example:
 
-Facebook: a social networking app. It’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. Facebook allows to contact with strangers. This is against Pakistani culture. 
-Etsy: is a shopping platform but doesn’t have a place where people can network and exchange knowledge.
-<!--[endif]-->Learning platforms like courses are likely to not provide a shopping platform.
+- **Facebook:** a social networking app. It’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. Facebook allows to contact with strangers
+
+- **Etsy:** is a shopping platform but doesn’t have a place where people can network and exchange knowledge.
+
+- Learning platforms like courses are likely to not provide a shopping platform.
+
 So why create a new platform? It’s the mashup of the three functions of the SiDo app that makes it valuable and that also gives you the opportunity to make it responsive to the user’s needs. If we start using applications that already exist, it will be complicated for us as we want to add all three features.
 
 # Why Pakistan?
