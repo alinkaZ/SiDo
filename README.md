@@ -16,7 +16,14 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 - <a href="#why-pakistan">Why Pakistan</a>
     
 # Problem
-Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
+Young girls and women residing in different areas in Pakistan are facing poverty and unemployment. They do not have access to their basic needs nor education facility. Many drop out from schools to provide support at home, hence 56% women in Pakistan are illiterate. Men dominate when it comes to work, and only 25 % of women living in Pakistan, are employed. This shows that there is no gender equality when it comes to work.
+
+Traditional gender roles in Pakistan define the woman's place as in the home and not in the workplace, and define the man as the breadwinner. 
+Consequently, the society invests far less in women than men.The gender discriminatory practices in Pakistan shape the distribution of poverty in the country, as 24% of the population lives below the poverty line. 
+
+Women in Pakistan suffer from poverty of opportunities throughout their lives.
+We believe that lifelong learning can help promote gender equality, ensure equal access to employment, and make sure that everyone is included in the information society.
+
  
 <img src="sdg.png">
 
