@@ -23,20 +23,20 @@ Young girls and women residing in different areas in Pakistan are facing poverty
     
 # Solution
 We are working on a mobile application that gives the opportunity for women in Pakistan to learn how to sew. 
-SiDo is educational, social and a hub for women in Pakistan. SiDo has a simple interface for that is easu to use by people with low levels of literacy and digital skills.
+SiDo is educational, social and a hub for women in Pakistan. SiDo has a simple interface for that is easy to use by people with low levels of literacy and digital skills.
 It has three main features:
-- learning platform 
-- social platform
-- integrated hub place for trading and exchanging materials, patterns and selling finished products.
+- learning platform divided into three levels; for beginners, intermediate and advanced.
+- social platform where user can ask questions and communicate with others.
+- integrated hub for trading and exchanging materials, patterns and selling finished products.
     
 ### How
-“Si do” means “Sew it” in urdu. And with the Si Do app, Women can develop their digital skills, discover new patterns, learn how to sell their clothing designs, and be a source of inspiration and be inspired by other women, who share same interest, around the globe.
+“Si do” means “Sew it” in urdu. And with the Si Do application, women can develop their digital skills, discover new patterns, learn how to sell finished products, and be a source of inspiration and be inspired by other women, who shares the same interest.
 
-With Si Do, women can communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help them support one another, solve common problems, and work together, to create new small businesses, in homes around the world.
+With Si Do, women can learn, communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help them support one another and work together to create new small businesses in the communities.
 
 <img src="Sewing.jpg">
 
-“Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. 
+/*“Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. */
 
 ### What
 Based on our research we know that not all women in Pakistan have a mobile phone. Instead many of these women have access to smartphones through their children.
