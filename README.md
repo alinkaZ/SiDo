@@ -1,5 +1,5 @@
 # SiDo
-Our educational system have failed to achive full inclusion, promote diversity and ensure full and equal opportunities for employment. 
+Our goal is to empower women to take part in social and working life through sewing. 
 
 We belive that lifelong learning can help promote gender equality, ensure equal access to employment, and ensure that everyone is included in the information socitey. 
 
