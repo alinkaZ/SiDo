@@ -12,8 +12,8 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
     - <a href="#how">How</a>
     - <a href="#what">What</a>
     
-- <a href="#why-not-use-apps-that-already-exist">Why-not-use-apps-that-already-exist</a>
-- <a href="#why-pakistan">Why-Pakistan</a>
+- <a href="#why-not-use-apps-that-already-exist">Why not use apps that already exist</a>
+- <a href="#why-pakistan">Why Pakistan</a>
     
 # Problem
 Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
