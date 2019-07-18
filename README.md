@@ -3,21 +3,22 @@ Our educational system have failed to achive full inclusion, promote diversity a
 
 We belive that lifelong learning can help promote gender equality, ensure equal access to employment, and ensure that everyone is included in the information socitey. 
 
+
 # Intro
 
-- [Problem](#Problem)
+- <a href="#problem">Problem</a>
 
-- [Solution](#Solution)
-    - [How](#How)
-    - [What](#What)
+- <a href="#solution">Solution</a>
+    - <a href="#how">How</a>
+    - <a href="#what">What</a>
     
-- [Why not use apps that already exist??](#Why-not-use-apps-that-already-exist)
-- [Why Pakistan?](#Why-Pakistan)
+- <a href="#why-not-use-apps-that-already-exist">Why-not-use-apps-that-already-exist</a>
+- <a href="#why-pakistan">Why-Pakistan</a>
     
-# Problem 
+# Problem
 Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
-
-![SDG](https://github.com/alinkaZ/SiDo/blob/master/sdg.png)
+ 
+<img src="sdg.png">
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
@@ -29,7 +30,7 @@ We want to create an application that gives the opportunity for women in Pakista
 
 With Si Do, Zarina can communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help women support one another, solve common problems, and work together, to create new small businesses, in homes around the world.
 
-![Sewing](https://github.com/alinkaZ/SiDo/blob/master/Sewing.jpg)
+<img src="Sewing.jpg">
 
 “Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. 
 
