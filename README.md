@@ -16,7 +16,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 - <a href="#why-pakistan">Why Pakistan</a>
     
 # Problem
-Young girls and women residing in different areas in Pakistan are facing poverty and unemployment. They do not have access to their basic needs nor education facility. Many drop out from schools to provide support at home, hence 56% women in Pakistan are illiterate. Men dominate when it comes to work, and only 25 % of women living in Pakistan, are employed. This shows that there is no gender equality when it comes to work.
+Young girls and women residing in different areas in Pakistan are facing poverty and unemployment. They do not have access to their basic needs nor education facility. Many drop out from schools to provide support at home, and 56% women in Pakistan are illiterate. Men dominate when it comes to work, and only 25 % of women living in Pakistan, are employed. 
 
 Traditional gender roles in Pakistan define the woman's place as in the home and not in the workplace, and define the man as the breadwinner. 
 Consequently, the society invests far less in women than men.The gender discriminatory practices in Pakistan shape the distribution of poverty in the country, as 24% of the population lives below the poverty line. 
@@ -27,7 +27,6 @@ We believe that lifelong learning can help promote gender equality, ensure equal
  
 <img src="sdg.png">
 
-Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
 # Solution
 We want to create an application that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
