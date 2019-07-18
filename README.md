@@ -16,7 +16,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 - <a href="#why-pakistan">Why Pakistan</a>
     
 # Problem
-Young girls and women residing in different areas in Pakistan are facing poverty and unemployment. They do not have access to basic necessities nor education facility. Many drop out from schools to provide support at home, and 56% women in Pakistan are illiterate. Men dominate when it comes to work, and only 25 % of women living in Pakistan, are employed. 
+Young girls and women residing in different areas in Pakistan are facing poverty and unemployment where they do not have access to basic necessities nor education facility. Many drop out from schools to provide support at home. Men dominate when it comes to work, and only 25 % of women living in Pakistan, are employed
 
 Traditional gender roles in Pakistan define the woman's place as in the home and not in the workplace, and define the man as the breadwinner. 
 Consequently, the society invests far less in women than men.The gender discriminatory practices in Pakistan shape the distribution of poverty in the country, as 24% of the population lives below the poverty line. 
