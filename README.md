@@ -29,7 +29,7 @@ Consequently, the society invests far less in women than men.The gender discrimi
 We want to create an online solution that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
     
 ### How
-“Si do” means “Sew it” in urdu. And with the Si Do app, Zarina can develop her digital skills, discover new patterns, learn how to sell her clothing designs, and be a source of inspiration and be inspired by other women, who share her interest, around the globe.
+“Si do” means “Sew it” in urdu. And with the Si Do app, Women can develop their digital skills, discover new patterns, learn how to sell their clothing designs, and be a source of inspiration and be inspired by other women, who share same interest, around the globe.
 
 With Si Do, Zarina can communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help women support one another, solve common problems, and work together, to create new small businesses, in homes around the world.
 
