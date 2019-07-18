@@ -1,4 +1,5 @@
 # SiDo
+“Si do” means “Sew it” in urdu. 
 Our goal is to empower women to take part in social and working life through sewing. 
 
 We belive that lifelong learning can help promote gender equality, ensure equal access to employment, and ensure that everyone is included in the information socitey. 
@@ -29,22 +30,18 @@ It has three main features:
 - integrated hub for trading and exchanging materials, patterns and selling finished products.
     
 ### How
-“Si do” means “Sew it” in urdu. And with the Si Do application, women can develop their digital skills, discover new patterns, learn how to sell finished products, and be a source of inspiration and be inspired by other women, who shares the same interest.
+the Si Do application gives women the opportunity to develop their digital skills, discover new patterns, learn how to sell finished products, and be a source of inspiration and be inspired by other women, who shares the same interest.
 
-With Si Do, women can learn, communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help them support one another and work together to create new small businesses in the communities.
+With Si Do, women can learn, communicate, collaborate, and help build a community of women from distant cultures and from right next door. These relationships help them support one another and work together to create new businesses in the communities.
 
 <img src="Sewing.jpg">
-
-/*“Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. */
-
-With Si Do everyone has a personal profile that can be ranked, based on feedback from their clients and peers. Each profile will have a portfolio with points for the courses that the person completed. This data will help connect women in collaboration, and motivate them in their future work as dressmakers and seamstresses.
 
 
 # Why not use apps that already exist?
 
 Apps that already exist aren’t fit for purpose. For example:
 
-- Soical networking applications it’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. 
+- Social networking applications it’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. 
 
 - Shopping platforms doesn’t have a place where people can network and exchange knowledge.
 
