@@ -44,7 +44,7 @@ With Si Do everyone has a personal profile that can be ranked, based on feedback
 
 Apps that already exist aren’t fit for purpose. For example:
 
--soical networking applications it’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. 
+- Soical networking applications it’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. 
 
 - Shopping platforms doesn’t have a place where people can network and exchange knowledge.
 
