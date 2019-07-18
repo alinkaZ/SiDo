@@ -10,7 +10,6 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 
 - <a href="#solution">Solution</a>
     - <a href="#how">How</a>
-    - <a href="#what">What</a>
     
 - <a href="#why-not-use-apps-that-already-exist">Why not use apps that already exist</a>
 - <a href="#why-pakistan">Why Pakistan</a>
@@ -38,23 +37,8 @@ With Si Do, women can learn, communicate, collaborate, and help build a communit
 
 /*“Si do”, is also a “school”, for everybody, with teachers from around the world, who can work together, to exchange fabrics or accessories, and to sell clothes and services, on both local and global markets. */
 
-### What
-Based on our research we know that not all women in Pakistan have a mobile phone. Instead many of these women have access to smartphones through their children.
+With Si Do everyone has a personal profile that can be ranked, based on feedback from their clients and peers. Each profile will have a portfolio with points for the courses that the person completed. This data will help connect women in collaboration, and motivate them in their future work as dressmakers and seamstresses.
 
-Zarina has a 9 year old daughter, and like many families in Pakistan, Zarina is just starting to teach her how to sew. We believe that this intergenerational exchange of knowledge and skills can help to solve the problem of Zarina’s digital exclusion. Si Do provides an opportunity for Zarina, to teach her daughter to sew, and for her daughter, to teach her mother, about how to use technology. 
-
-Si Do is a mobile application with a simple interface that is easy to use for people with a low levels of literacy and digital skills. It is very intuitive and easy to understand. 
-
-With Si Do everyone has a personal profile that can be ranked, based on feedback from their clients and peers. Each profile will have a portfolio with points for the courses that the person completed. This data will help connect women in collaboration, and motivate them in their future work as dressmakers and seamstresses. 
-
-**Si Do has three main features**
-- Learning materials divided into three levels, for beginners, intermediate and advanced;
-
-- A social platform for communication. Where users can ask questions and discuss different topics; 
-
-- And finally a marketplace, for trading and exchanging clothing designs, patterns and selling finished products. 
-
-We believe, that our solution can empower Zarina and her community. And best of all, it uses existing technologies in a new way to make development simple and implementation effective.
 
 # Why not use apps that already exist?
 
