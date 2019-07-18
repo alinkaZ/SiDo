@@ -44,9 +44,9 @@ With Si Do everyone has a personal profile that can be ranked, based on feedback
 
 Apps that already exist aren’t fit for purpose. For example:
 
-- **Facebook:** a social networking app. It’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. Facebook allows to contact with strangers
+-soical networking applications it’s where people go to get their news ad hear what their friends are doing. It’s not a learning platform. People can sell and buy things, but there are lots of issues when it comes to trusting. 
 
-- **Etsy:** is a shopping platform but doesn’t have a place where people can network and exchange knowledge.
+- Shopping platforms doesn’t have a place where people can network and exchange knowledge.
 
 - Learning platforms like courses are likely to not provide a shopping platform.
 
@@ -55,6 +55,6 @@ So why create a new platform? It’s the mashup of the three functions of the Si
 # Why Pakistan?
 We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
 
-We believe that Si Do can help both government and non-government organisations that aim to promote, lifelong learning, gender equality and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
+We believe that Si Do can help both government and non-government organizations that aim to promote, lifelong learning, gender equality and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
 
 For Zarina, Si Do provides the means for learning more about her passion, for becoming an entrepreneur, and for connecting with the next generation to learn digital skills.
