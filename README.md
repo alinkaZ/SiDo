@@ -57,4 +57,4 @@ We chose to focus on Pakistan, because we have a strong connection to communitie
 
 We believe that Si Do can help both government and non-government organizations that aim to promote, lifelong learning, gender equality and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
 
-For Zarina, Si Do provides the means for learning more about her passion, for becoming an entrepreneur, and for connecting with the next generation to learn digital skills.
+Si Do provides the means for learning more about the passion for sewing, for becoming an entrepreneur, and for connecting with the next generation to learn digital skills.
