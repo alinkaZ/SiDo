@@ -22,8 +22,8 @@ Young girls and women residing in different areas in Pakistan are facing poverty
 <img src="sdg.png">
 
     
-# Solution
-We are working on a mobile application that gives the opportunity for women in Pakistan to learn how to sew. 
+# What
+SiDo is a mobile application that gives the opportunity for women in Pakistan to learn how to sew. 
 SiDo is educational, social and a hub for women in Pakistan. SiDo has a simple interface for that is easy to use by people with low levels of literacy and digital skills.
 It has three main features:
 - learning platform divided into three levels; for beginners, intermediate and advanced.
