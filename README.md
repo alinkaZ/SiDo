@@ -53,11 +53,27 @@ Apps that already exist aren’t fit for purpose. For example:
 So why create a new platform? It’s the mashup of the three functions of the SiDo app that makes it valuable and that also gives you the opportunity to make it responsive to the user’s needs. 
 
 # Why Pakistan?
-We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries, and even pivot into other areas such as cooking. 
+We chose to focus on Pakistan, because we have a strong connection to communities throughout this country. However, we acknowledge that Si Do can create value for women in other countries. 
 
 We believe that Si Do can help both government and non-government organizations that aim to promote, lifelong learning, gender equality and social inclusion. Although Si Do is a social innovation, we also understand that it has commercial potential. Social investors or industry partners can use Si Do for advertising, selling fabrics to the community, or generating revenue from purchases on the platform. 
 
 Si Do provides the means for learning more about the passion for sewing, for becoming an entrepreneur, and for connecting with the next generation to learn digital skills.
 
 # Impact
+
+Through SiDo
+additional income to family through women, benefit the 
+
+Network effects are really important to experiment with. The ability for users to share their creations and get predefined reactions, or to belong to a community of some sort.
+Then its easier for users to recruit new users in their local communities. (This really makes sense when you start looking at multiple types of crafts, think local community pinterest for own creations)
+
+If there will be commons space for women use a sewing machine, they can also get together and do this collectively or do any such embroidery in their own homes and Si Do can also guide them in getting the market
+I wanted to have a chat with you, most importantly
+your project is amazing with fantastic scope
+as Francois mentioned yesterday(03/07/19) mention the background of the NGO support and the possibility availing the sewing machines, that makes a huge difference.
+
+This is what Pakistan is rich for! Apart from learning sewing, empower the communities of Si Do to revive these rich embroidery work. Often to transfer these onto fabric material takes collective effort- the community space you are thinking of where there will be one sewing machine can also act as a community space- to bring women together and do some creative empowerment
+
+Women mental health is least spoken about. collective stitching- as famously known as ‘Bitch & Stitch’ helps them handle with their depression better( If you want to bring in the Women Mental Health- and make that an SDG angle). 
+
 
