@@ -61,19 +61,10 @@ Si Do provides the means for learning more about the passion for sewing, for bec
 
 # Impact
 
-Through SiDo
-additional income to family through women, benefit the 
+With SiDo, learning can be enchanced through skills development and families can benefit from the additional income of their female members. With SiDo, women can network and create a community where they use their ability to share creations, connect collectively to do some creative empowerment.
+Apart from learning sewing, SiDo empower the communities to keep old traditions such as embroidery work alive. 
 
-Network effects are really important to experiment with. The ability for users to share their creations and get predefined reactions, or to belong to a community of some sort.
-Then its easier for users to recruit new users in their local communities. (This really makes sense when you start looking at multiple types of crafts, think local community pinterest for own creations)
 
-If there will be commons space for women use a sewing machine, they can also get together and do this collectively or do any such embroidery in their own homes and Si Do can also guide them in getting the market
-I wanted to have a chat with you, most importantly
-your project is amazing with fantastic scope
-as Francois mentioned yesterday(03/07/19) mention the background of the NGO support and the possibility availing the sewing machines, that makes a huge difference.
-
-This is what Pakistan is rich for! Apart from learning sewing, empower the communities of Si Do to revive these rich embroidery work. Often to transfer these onto fabric material takes collective effort- the community space you are thinking of where there will be one sewing machine can also act as a community space- to bring women together and do some creative empowerment
-
-Women mental health is least spoken about. collective stitching- as famously known as ‘Bitch & Stitch’ helps them handle with their depression better( If you want to bring in the Women Mental Health- and make that an SDG angle). 
+Women mental health is least spoken about. collective stitching- as famously known as ‘Bitch & Stitch’ helps them handle with their depression better(to bring in the Women Mental Health- and make that an SDG angle). 
 
 
