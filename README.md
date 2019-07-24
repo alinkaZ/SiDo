@@ -61,8 +61,7 @@ Si Do provides the means for learning more about the passion for sewing, for bec
 
 # Impact
 
-With SiDo, learning can be enchanced through skills development and families can benefit from the additional income of their female members. With SiDo, women can network and create a community where they use their ability to share creations, connect collectively to do some creative empowerment.
-Apart from learning sewing, SiDo empower the communities to keep old traditions such as embroidery work alive. 
-
-
+With SiDo, women can network and create a community where they use their ability to share creations, connect collectively to do some creative empowerment.
+Apart from learning sewing, SiDo empower the communities to keep old traditional crafts alive. 
+With SiDo, learning can be enchanced through skills development and families can benefit from the additional income of their female members.
 
