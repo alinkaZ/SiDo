@@ -29,7 +29,7 @@ It has three main features:
 - social platform where user can ask questions and communicate with others.
 - integrated hub for trading and exchanging materials, patterns and selling finished products.
     
-<img src="Proto_1.png">
+<img src="Github.png">
 
 ### How
 the Si Do application gives women the opportunity to develop their digital skills, discover new patterns, learn how to sell finished products, and be a source of inspiration and be inspired by other women, who shares the same interest.
